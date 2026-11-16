@@ -220,6 +220,7 @@ The demo demonstrates:
 - Advanced tax planning and financial reporting.
 - Enhanced family collaboration and expense management.
 - More regional languages and voice interactions.
+- Adding a wallet feature 
 
 ## Hackathon Project
 Wealth Wise was developed as part of **Arthathon 2026**.
@@ -235,7 +236,7 @@ We believe that financial intelligence should not be limited to financial expert
 **Rashi Mathur**
 
 **Project:** Wealth Wise  
-**Role:** 
+**Rashi Mathur Role: Founder and Product Developer** 
 
 I have worked on developing Wealth Wise, from identifying everyday financial management challenges to designing and building an AI-powered financial platform.
 
