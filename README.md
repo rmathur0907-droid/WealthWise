@@ -137,38 +137,119 @@ The platform is designed around:
 
 Wealth Wise provides financial education and analytical insights. It does not guarantee investment returns or execute real-money investments.
 
-## Future Enhancements
+## Live Demo
 
-Potential improvements include:
+Try Wealth Wise here:
 
-- Direct integration with authorised banking and UPI data providers.
-- Automated transaction synchronisation.
-- Advanced AI-powered financial forecasting.
-- Improved business analytics and reporting.
-- Personalised investment learning paths.
-- Voice-enabled financial assistant.
-- More advanced family collaboration features.
-- Tax planning and financial compliance assistance.
-- Additional languages
 
-## Project Information
 
-**Project Name:** Wealth Wise
+## Demo Video
 
-**Tagline:** Wise today, wealthy tomorrow
+Demo Video: **[INSERT YOUR YOUTUBE VIDEO LINK HERE]**
 
-**Project Category:** Artificial Intelligence / FinTech
+The demo demonstrates:
 
-**Target Audience:** Individuals, families, freelancers, and small businesses.
+1. Exploring the Wealth Wise landing page and dashboard.
+2. Navigating between Personal, Family, and Business Finance.
+3. Exploring expense tracking and smart budgeting.
+4. Using AI-powered financial assistance.
+5. Exploring investment tools and financial calculators.
+6. Analysing small-business finances and cash flow.
 
-##  Disclaimer
+## Screenshots
 
-Wealth Wise is intended for financial education, budgeting, and analytical assistance. Its AI-generated insights are informational and should not be considered professional financial, investment, or tax advice.
+### Home Page
+[INSERT HOMEPAGE SCREENSHOT HERE]
 
-##  Our Vision
+### Financial Dashboard
+[INSERT DASHBOARD SCREENSHOT HERE]
 
-We believe financial management should not be complicated or exclusive to people with financial expertise.
+### Personal Finance
+[INSERT PERSONAL FINANCE SCREENSHOT HERE]
 
-With Wealth Wise, we aim to make smarter financial decisions accessible to everyone.
+### Family Finance
+[INSERT FAMILY FINANCE SCREENSHOT HERE]
 
+### Business Finance
+[INSERT BUSINESS FINANCE SCREENSHOT HERE]
+
+### WealthWise AI Assistant
+[INSERT AI ASSISTANT SCREENSHOT HERE]
+
+### Investment & Financial Tools
+[INSERT INVESTMENT SCREENSHOT HERE]
+
+---
+
+## What Works
+
+- **Unified Financial Management:** Wealth Wise brings Personal, Family, and Business Finance together in one platform.
+- **Personal Finance:** Helps users track income, expenses, budgets, and savings.
+- **Family Finance:** Provides features for managing shared household expenses and financial goals.
+- **Small Business Finance:** Supports business income and expense tracking, profitability analysis, and cash-flow management.
+- **AI Financial Assistant:** Provides conversational financial assistance and helps users understand their financial information.
+- **Smart Budgeting:** Helps users monitor spending patterns and manage monthly budgets.
+- **Investment Tools:** Provides investment education and financial calculators for SIPs, FDs, RDs, and compound interest.
+- **Loan & EMI Calculator:** Helps users understand loan repayments, interest, and EMI breakdowns.
+- **Interactive Dashboard:** Presents financial information through visual summaries, charts, and reports.
+- **Indian Financial Context:** Designed around INR, UPI transactions, and commonly used Indian financial concepts.
+
+*Note: Keep only features that have been tested and are functional in the deployed version.*
+
+---
+
+## What Does Not Work / Current Limitations
+
+- **Automated Banking Integration:** Direct synchronisation with bank accounts and UPI applications requires authorised financial data integrations.
+- **Transaction Import Accuracy:** Uploaded financial statements may require additional validation to improve transaction extraction and categorisation.
+- **AI Accuracy:** AI-generated financial insights may require refinement to improve accuracy and contextual understanding.
+- **Cash-Flow Forecasting:** Forecast accuracy depends on the availability and quality of historical financial records.
+- **Multilingual Refinement:** Financial terminology and AI responses in regional languages require further testing.
+- **Cross-Device Synchronisation:** Requires complete backend and database integration to ensure consistent financial records across devices.
+
+*These are areas for further validation and development, not necessarily confirmed failures.*
+
+## Future Improvements
+- Integration with authorised banking and UPI data providers.
+- Improved AI-powered financial forecasting.
+- Automated transaction categorisation and synchronisation.
+- Voice-enabled WealthWise AI Assistant.
+- Advanced financial analytics for small businesses.
+- Improved investment portfolio analysis.
+- Personalised financial recommendations.
+- Advanced tax planning and financial reporting.
+- Enhanced family collaboration and expense management.
+- More regional languages and voice interactions.
+
+## Hackathon Project
+Wealth Wise was developed as part of **Arthathon 2026**.
+
+The project explores how Artificial Intelligence can transform financial management by making financial information easier to understand and financial decisions more accessible.
+
+Our objective is to bridge the gap between financial data and financial understanding by combining AI, financial analytics, and an accessible user experience.
+
+We believe that financial intelligence should not be limited to financial experts. Everyone should have the tools to understand, manage, and grow their money.
+
+## TEAM
+
+**Rashi Mathur**
+
+**Project:** Wealth Wise  
+**Role:** 
+
+I have worked on developing Wealth Wise, from identifying everyday financial management challenges to designing and building an AI-powered financial platform.
+
+Our contributions include:
+
+- **Ideation:** Identifying financial management challenges faced by individuals, families, and small businesses.
+- **Problem Solving:** Developing a unified solution for different financial management needs.
+- **Product Design:** Planning the platform's interface, dashboards, and user experience.
+- **AI Integration:** Exploring AI-powered financial assistance and intelligent financial insights.
+- **Development:** Building and refining the platform's features and functionality.
+- **Testing & Iteration:** Identifying bugs, improving usability, and refining the user experience.
+- **Deployment:** Publishing the platform online and preparing it for hackathon demonstration.
+
+I aim to make financial management simpler, smarter, and more accessible.
+
+### WEALTH WISE
 **Wise today, Wealthy tomorrow.**
