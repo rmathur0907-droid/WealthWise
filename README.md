@@ -137,6 +137,26 @@ The platform is designed around:
 
 Wealth Wise provides financial education and analytical insights. It does not guarantee investment returns or execute real-money investments.
 
+## Technology Stack
+
+Wealth Wise was developed using AI-powered development and assistance tools to simplify the design, development, and implementation process.
+
+| Tool | Purpose |
+|---|---|
+| **Lovable AI** | Website development, UI design, frontend generation, and feature implementation. |
+| **ChatGPT** | Project ideation, prompt engineering, debugging assistance, feature planning, and content generation. |
+| **Google Gemini** | AI-powered financial assistance, intelligent responses, and financial insight generation. |
+
+### AI Integration
+
+- **Lovable:** Used as the primary AI-powered website development platform.
+- **ChatGPT:** Assisted throughout the development process, from planning features to identifying bugs and improving functionality.
+- **Google Gemini:** Used for AI-driven financial conversations and intelligent assistance.
+
+### Development Approach
+
+Wealth Wise was developed using an AI-assisted development approach, combining AI-powered website generation, conversational AI, and iterative prompt engineering to build and refine the platform.
+
 ## Live Demo
 
 Try Wealth Wise here:
